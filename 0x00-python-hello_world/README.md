@@ -81,3 +81,13 @@ An introduction to Python and the python interpreter
 > A Python script that prints "The Zen of Python", by TimPeters,  
 > followed by a new line.
 > * The script should be maximum 98 characters long 
+
+
+### 1000-write.py
+> A Python script that prints exactly  
+> `and that piece of art is useful - Dora Korpar, 2015-10-19` followed by a  
+> new line.
+> * Use the function write from the sys module
+> * You are not allowed to use print
+> * Your script should print to stderr
+> * Your script should exit with the status code 1
