@@ -83,7 +83,7 @@ An introduction to Python and the python interpreter
 > * The script should be maximum 98 characters long 
 
 
-### 1000-write.py
+### 100-write.py
 > A Python script that prints exactly  
 > `and that piece of art is useful - Dora Korpar, 2015-10-19` followed by a  
 > new line.
@@ -91,3 +91,11 @@ An introduction to Python and the python interpreter
 > * You are not allowed to use print
 > * Your script should print to stderr
 > * Your script should exit with the status code 1
+
+### 101-compile
+> A script that compiles a Python script file.
+> * The Python file name will be stored in the environment variable `$PYFILE`
+> * The output filename has to be `$PYFILEc`  
+> (ex: `export PYFILE=my_main.py` => output filename: `my_main.pyc`)
+
+
