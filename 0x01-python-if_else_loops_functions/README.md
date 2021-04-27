@@ -70,3 +70,72 @@ An introduction to control flow tools
 > * You are not allowed to store numbers or strings in a variable
 > * You are not allowed to import any module
 
+
+### 6-print_comb3.py
+> A program that prints all possible different combinations of two digits.
+> * Numbers must be separated by ,, followed by a space
+> * The two digits must be different
+> * 01 and 10 are considered the same combination of the two digits 0 and 1
+> * Print only the smallest combination of two digits
+> * Numbers should be printed in ascending order, with two digits
+> * The last number should be followed by a new line
+> * You can only use no more than 3 print functions with string format
+> * You can only use no more than 2 loops in your code
+> * You are not allowed to store numbers or strings in a variable
+> * You are not allowed to import any module
+
+
+### 7-islower.py
+> A function that checks for lowercase character.
+> * Prototype: `def islower(c):`
+> * Returns `True` if `c` is lowercase
+> * Returns `False` otherwise
+> * You are not allowed to import any module
+> * You are not allowed to use `str.upper()` and `str.isupper()`
+
+
+### 8-uppercase.py
+> A function that prints a string in uppercase followed by a new line.
+> * Prototype: `def uppercase(str)`:
+> * You can only use no more than 2 print functions with string format
+> * You can only use one loop in your code
+> * You are not allowed to import any module
+> * You are not allowed to use `str.upper()` and `str.isupper()`
+
+### 9-print_last_digit.py
+> A function that prints the last digit of a number.
+> * Prototype: `def print_last_digit(number):`
+> * Returns the value of the last digit
+> * You are not allowed to import any module
+
+
+### 10-add.py
+> Write a function that adds two integers and returns the result.
+> * Prototype: `def add(a, b):`
+> * Returns the value of `a + b`
+> * You are not allowed to import any module
+
+### 11-pow.py
+> A function that computes a to the power of b and return the value.
+> * Prototype: `def pow(a, b):`
+> * Returns the value of a ^ b
+> * You are not allowed to import any module
+
+### 12-fizzbuzz.py
+> A function that prints the numbers from 1 to 100 separated by a space.
+> * For multiples of three print `Fizz` instead of the number and for multiples of
+> five print `Buzz`
+> * For numbers which are multiples of both three and five print `FizzBuzz`.
+> * Prototype: `def fizzbuzz():`
+> * Each element should be followed by a space
+> * You are not allowed to import any module
+
+
+### 100-print_tebahpla.py
+> program that prints the ASCII alphabet, in reverse order, alternating
+> lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by
+> a new line.
+> * You can only use one print function with string format
+> * You can only use one loop in your code
+> * You are not allowed to store characters in a variable
+> * You are not allowed to import any module
