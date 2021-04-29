@@ -55,10 +55,16 @@ Learning about python modules
 > * The program should also handle big numbers. 
 
 
-### # 4-hidden_discovery.py
+### 4-hidden_discovery.py
 > A program that prints all the names defined by the compiled module
 > `hidden_4.pyc`
 > * You should print one name per line, in alpha order
 > * You should print only names that do not start with `__`
 > * Your code should not be executed when imported
 
+
+### 5-variable_load.py
+> A program that imports the variable `a` from the file `variable_load_5.py` and
+> prints its value.
+> * You are not allowed to use `*` for importing or `__import__`
+> * Your code should not be executed when imported
