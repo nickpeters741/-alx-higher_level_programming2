@@ -24,3 +24,13 @@ Concepts covered:
 * What does the `pass` statement do, and when to use it
 * How to use `range`
 
+### 0x02-python-import_modules
+Learning about python modules
+
+Concepts covered:
+* How to import functions from another file
+* How to use imported functions
+* How to create a module
+* How to use the built-in function `dir()`
+* How to prevent code in your script from being executed when imported
+* How to use command line arguments with your Python programs
