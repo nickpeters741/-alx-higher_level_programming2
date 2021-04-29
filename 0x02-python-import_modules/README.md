@@ -54,3 +54,11 @@ Learning about python modules
 > * Your code should not be executed when imported
 > * The program should also handle big numbers. 
 
+
+### # 4-hidden_discovery.py
+> A program that prints all the names defined by the compiled module
+> `hidden_4.pyc`
+> * You should print one name per line, in alpha order
+> * You should print only names that do not start with `__`
+> * Your code should not be executed when imported
+
