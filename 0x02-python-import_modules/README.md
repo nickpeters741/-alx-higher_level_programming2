@@ -47,4 +47,10 @@ Learning about python modules
 > * The number of elements of `argv` can be retrieved by using: `len(argv)`
 
 
+### 3-infinite_add.py
+> A program that prints the result of the addition of all arguments
+> * The output should be the result of the addition of all arguments, followed
+>   by a new line
+> * Your code should not be executed when imported
+> * The program should also handle big numbers. 
 
