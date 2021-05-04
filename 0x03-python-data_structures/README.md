@@ -70,3 +70,64 @@ Learning about lists and tuples
 > * You can assume that the list only contains integers
 > * You are not allowed to cast integers into strings
 > * You have to use str.format() to print integers
+
+
+### 7-add_tuple.py
+> A function that adds 2 tuples.
+> * Prototype: def add_tuple(tuple_a=(), tuple_b=()):
+> * Returns a tuple with 2 integers:
+>   * The first element should be the addition of the first element of each argument
+>   * The second element should be the addition of the second element of each
+> argument
+> * You are not allowed to import any module
+> * You can assume that the two tuples will only contain integers
+> * If a tuple is smaller than 2, use the value 0 for each missing integer
+> * If a tuple is bigger than 2, use only the first 2 integers
+
+
+
+### 8-multiple_returns.py
+> A function that returns a tuple with the length of a string and its first
+>   character.
+> * Prototype: `def multiple_returns(sentence):`
+> * If the sentence is empty, the first character should be equal to None
+> * You are not allowed to import any module
+
+
+
+### 9-max_integer.py
+> A function that finds the biggest integer of a list.
+> * Prototype: `def max_integer(my_list=[]):`
+> * If the list is empty, return None
+> * You can assume that the list only contains integers
+> * You are not allowed to import any module
+> * You are not allowed to use the builtin max()
+
+
+### 10-divisible_by_2.py
+> A function that finds all multiples of 2 in a list.
+> * Prototype: `def divisible_by_2(my_list=[]):`
+> * Return a new list with True or False, depending on whether the integer
+> at the same position in the original list is a multiple of 2
+> * The new list should have the same size as the original list
+> * You are not allowed to import any module
+
+
+
+### 11-delete_at.py
+> A function that deletes the item at a specific position in a list.
+> * Prototype: `def delete_at(my_list=[], idx=0):`
+> * If idx is negative or out of range, nothing change (returns the same
+> * list)
+> * You are not allowed to use pop()
+> * You are not allowed to import any module
+
+
+
+### 12-switch.py
+> Complete the source code in order to switch value of a and b
+> * You can find the source code
+>   [here](https://github.com/holbertonschool/0x03.py/blob/master/12-switch_py)
+> * Your code should be inserted where the comment is (line 4)
+> * Your program should be exactly 5 lines long
+
