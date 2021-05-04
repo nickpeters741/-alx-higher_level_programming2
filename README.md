@@ -34,3 +34,15 @@ Concepts covered:
 * How to use the built-in function `dir()`
 * How to prevent code in your script from being executed when imported
 * How to use command line arguments with your Python programs
+
+
+### 0-print_list_integer.py
+Learning about python lists and some data structures
+
+Concepts covered:
+* What are lists and how to use them
+* How to use lists as stacks and queues
+* What are list comprehensions and how to use them
+* What are tuples and how to use them
+* What is a sequence
+* What is tuple packing
