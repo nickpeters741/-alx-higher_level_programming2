@@ -36,7 +36,7 @@ Concepts covered:
 * How to use command line arguments with your Python programs
 
 
-### 0-print_list_integer.py
+### 0x03-python-data_structures
 Learning about python lists and some data structures
 
 Concepts covered:
@@ -46,3 +46,13 @@ Concepts covered:
 * What are tuples and how to use them
 * What is a sequence
 * What is tuple packing
+
+
+### 0x04-python-more_data_structures
+Learning about python data structures
+
+Concepts covered:
+*  What are set and how to use them
+* What are dictionary and how to use them
+* What is a lambda function
+* What is map, reduce and map functions
